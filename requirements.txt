@@ -1,0 +1,4 @@
+openai
+pyfiglet
+termcolor
+python-dotenv
