@@ -13,8 +13,8 @@ AymEnn answers your questions with humor while providing useful information.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chatbot-aymenn.git
-cd chatbot-aymenn
+git clone https://github.com/EnnMan/console-openai-chatbot.git
+cd console-openai-chatbot
 ```
 2. Install dependencies
 ```bash
